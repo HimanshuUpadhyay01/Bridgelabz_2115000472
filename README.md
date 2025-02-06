@@ -81,4 +81,13 @@ This repository contains a series of Java assignments that cover both fundamenta
 
 ---
 
+### Assignment 10 - 05-02-2025
+**Concepts Covered:**
+- Object Oriented Design Principles
+- Class Diagram
+- Object Diagrams
+- Sequence Diagrams
+
+---
+
 This repository serves as a comprehensive learning resource for Java. Explore and practice the assignments to strengthen your understanding of Java programming.
